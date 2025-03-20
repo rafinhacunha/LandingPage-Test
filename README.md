@@ -23,4 +23,4 @@ Vale destacar que a base do layout desta landing page foi inspirada em um templa
 1. **Clone o repositório:**
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <(https://github.com/rafinhacunha/LandingPage-Test)>
